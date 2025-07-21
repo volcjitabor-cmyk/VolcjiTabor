@@ -90,7 +90,7 @@
   <section id="galerija">
     <h2>Galerija</h2>
     <div class="gallery">
-      <img src="https://scontent.xx.fbcdn.net/v/t1.6435-9/183044000849588.jpg" alt="Otroci na taboru">
+      <img src="družinska skupnost.jpg" alt="Otroci na taboru">
       <img src="https://scontent.xx.fbcdn.net/v/t1.6435-9/183044097516245.jpg" alt="Delavnica v naravi">
       <img src="https://scontent.xx.fbcdn.net/v/t1.6435-9/313092211253296.jpg" alt="Volčja energija">
       <img src="https://scontent.xx.fbcdn.net/v/t1.6435-9/313092877919896.jpg" alt="Druženje v gozdu">
