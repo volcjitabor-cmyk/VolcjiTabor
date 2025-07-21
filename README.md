@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: img src="družinska skupnost.jpg" no-repeat center center fixed;
+      background: src="družinska skupnost.jpg" no-repeat center center fixed;
       background-size: cover;
       color: #333;
     }
