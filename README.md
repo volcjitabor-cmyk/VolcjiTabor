@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
-  <title>Volči tabor – Ekološko‑izobraževalni center</title>
+  Volči tabor – Ekološko‑izobraževalni center</title>
   <style>
     body {
       font-family: Arial, sans-serif;
